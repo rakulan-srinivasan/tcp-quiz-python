@@ -1,0 +1,72 @@
+{
+    "question": [
+      "Q1. The brain of any computer system is",
+      "Q2. Which of the following is the 1's complement of 10",
+      "Q3. The binary system uses powers of",
+      "Q4. A computer program that converts assembly language to machine language is",
+      "Q5. The time required for the fetching and execution of one simple machine instruction is",
+      "Q6. A program component that allows structuring of a program in an unusual way is known as",
+      "Q7. A single packet on a data link is known as",
+      "Q8. A common boundary between two systems is called",
+      "Q9. A datum that indicates some important state in the content of input or output is"
+    ],
+    "answer": [
+      1,
+      3,
+      1,
+      2,
+      1,
+      2,
+      3,
+      2,
+      1
+    ],
+    "options": [
+  
+      ["CPU",
+        "ALU",
+        "CU",
+        "None of the above"
+      ],
+      ["10",
+        "11",
+        "01",
+        "00"
+      ],
+      ["2",
+        "8",
+        "16",
+        "10"
+      ],
+      ["Interpreter",
+        "Assembler",
+        "Compiler",
+        "Comparator"
+      ],
+      ["CPU Cycle",
+        "Delay time",
+        "Real time",
+        "Seek time"
+      ],
+      ["Correlation",
+        "Coroutine",
+        "Quene",
+        "Diagonalisation"
+      ],
+      ["Path",
+        "Block",
+        "Frame",
+        "Group"
+      ],
+      ["Surface",
+        "Interface",
+        "Interdiction",
+        "None of the above"
+      ],
+      ["Sentinel",
+        "SIO",
+        "Sibling",
+        "Sequence"
+      ]
+    ]
+  }
